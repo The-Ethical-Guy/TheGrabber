@@ -21,10 +21,10 @@ the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
  <li>Get the ip type</li>
  <li>Get the ip dns</li>
  <li>Get the ip host</li>
- <li>Scanon a specific port</li>
+ <li>Scan on a specific port</li>
  </ul>
 
-# E-SPOOFER how to install and use
+# TheGrabber how to install and use
 
 ```
 apt update
@@ -33,10 +33,10 @@ apt update
 apt install git
 ```
 ```
-git clone https://github.com/The-Ethical-Guy/E-SPOOFER.git
+git clone https://github.com/The-Ethical-Guy/TheGrabber.git
 ```
 ```
-cd E-SPOOFER
+cd TheGrabber
 ```
 
 # How to run the tool
@@ -48,7 +48,7 @@ apt install python3
 pip install requirements.txt
 ```
 ```
-python3 e-spoofer.py
+python3 thegrabber.py
 ```
 
 # Screenshot
