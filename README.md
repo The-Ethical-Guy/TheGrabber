@@ -52,4 +52,4 @@ python3 thegrabber.py
 ```
 
 # Screenshot
-![](https://files.catbox.moe/y1ndmh.png)
+![](https://files.catbox.moe/wk25vm.png)
