@@ -52,4 +52,4 @@ python3 e-spoofer.py
 ```
 
 # Screenshot
-![](https://files.catbox.moe/5rfvs5.png)
+![](https://files.catbox.moe/y1ndmh.png)
