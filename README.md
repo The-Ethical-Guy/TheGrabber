@@ -1,7 +1,7 @@
 # TheGrabber
 ![](https://files.catbox.moe/y1ndmh.png)
 # About
-<b>a powerful and effective ip guessing tool</b> the perfect tool for advanced hackers, this tool use powerful scannig module's to skip any protect server
+<b>a powerful and effective ip guessing tool</b> the perfect tool for advanced hackers, this tool use powerful scannig module's to skip any firewall
 
 # SYSTEM REQUIREMENTS
 | Requirements   | Version            |
