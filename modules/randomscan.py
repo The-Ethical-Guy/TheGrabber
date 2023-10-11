@@ -140,7 +140,7 @@ def main():
                 else:
                     print(f"{red}IP: {random_ip} | STATUS: closed{font}")
         else:
-            print("{red}Invalid choice. Please enter 'y' or 'n' {font}")
+            print(f"{red}Invalid choice. Please enter 'y' or 'n' {font}")
     except KeyboardInterrupt:
         print(f"{red}Invalid choice{font}")
 
