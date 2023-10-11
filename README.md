@@ -7,7 +7,7 @@
 | Requirements   | Version            |
 | -------------- | ------------------ |
 | python         | 3.11.2             |
-| Kali           | 2022.4             |
+| linux          | 2022.4             |
  
 # Social media links
 the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
