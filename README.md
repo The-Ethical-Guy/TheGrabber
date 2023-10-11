@@ -16,12 +16,12 @@ the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
 # What can this tool do ?
 
 <ul>
- <li>Spoof any sender name you want</li>
- <li>Spoof any email you want</li>
- <li>Send emails to more than one in the same time</li>
- <li>Send an email you write it manually</li>
- <li>Turn a HTML file to an email</li>
- <li>Skip any protect service</li>
+ <li>Create a IPs list and scan it</li>
+ <li>Save the working IPs in a file</li>
+ <li>Get the ip type</li>
+ <li>Get the ip dns</li>
+ <li>Get the ip host</li>
+ <li>Scanon a specific port</li>
  </ul>
 
 # E-SPOOFER how to install and use
